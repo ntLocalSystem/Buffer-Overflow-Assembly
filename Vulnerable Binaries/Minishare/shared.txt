@@ -1,0 +1,1 @@
+"M:\BufferOverflow\Vulnerable Software\MicroP\setari.ini"=/BufferOverflow/Vulnerable%20Software/MicroP/setari.ini 1 
